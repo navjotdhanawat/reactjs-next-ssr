@@ -1,0 +1,45 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi node_modules/next/dist/client/next": 0,
+      "ignored node_modules/es6-promise/dist vertx": 1
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\Otom3ipYDsJTCPxStqE2n\\pages\\_app.js": 3,
+      "static\\Otom3ipYDsJTCPxStqE2n\\pages\\_error.js": 4,
+      "static\\Otom3ipYDsJTCPxStqE2n\\pages\\index.js": 5,
+      "static\\Otom3ipYDsJTCPxStqE2n\\pages\\other.js": 6,
+      "static\\PlCBJWLoQ09~G9Pmh6jJE\\pages\\_app.js": 7,
+      "static\\PlCBJWLoQ09~G9Pmh6jJE\\pages\\_error.js": 8,
+      "static\\PlCBJWLoQ09~G9Pmh6jJE\\pages\\index.js": 9,
+      "static\\PlCBJWLoQ09~G9Pmh6jJE\\pages\\other.js": 10,
+      "static\\Qj3DJnzd15AHGrAUP12dk\\pages\\_app.js": 3,
+      "static\\Qj3DJnzd15AHGrAUP12dk\\pages\\_error.js": 4,
+      "static\\Qj3DJnzd15AHGrAUP12dk\\pages\\index.js": 5,
+      "static\\Qj3DJnzd15AHGrAUP12dk\\pages\\other.js": 6,
+      "static\\_sjhXoFyRSzvyOgVXeBAh\\pages\\_app.js": 7,
+      "static\\_sjhXoFyRSzvyOgVXeBAh\\pages\\_error.js": 8,
+      "static\\_sjhXoFyRSzvyOgVXeBAh\\pages\\index.js": 9,
+      "static\\_sjhXoFyRSzvyOgVXeBAh\\pages\\other.js": 10
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      2,
+      7,
+      8,
+      9
+    ]
+  }
+}
